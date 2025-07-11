@@ -139,8 +139,8 @@ export default function ContactPage() {
                     <a href="mailto:asproperty2025@gmail.com" className="text-gray-600 hover:text-blue-600">
                       asproperty2025@gmail.com
                     </a>
-                    <a href="mailto:amina@aspalest.com" className="text-gray-600 hover:text-blue-600">
-                      amina@aspalest.com
+                    <a href="mailto:" className="text-gray-600 hover:text-blue-600">
+                      
                     </a>
                   </div>
                 </div>
