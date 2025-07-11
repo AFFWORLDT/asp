@@ -16,7 +16,7 @@ interface Agent {
 }
 
 async function getAgents(): Promise<Agent[]> {
-  const res = await fetch("https://kkre-api.propfusion.io/agent/all", {
+  const res = await fetch("https://asp-api.propfusion.io/agent/all", {
     headers: {
       Authorization:
         "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ODUyNiwicm9sZV9pZHMiOlsxMDBdLCJ0eXBlIjoiYWdlbnQiLCJleHAiOjE3NTc4MzI0MzB9.I7jfF3Gb25RQsG1Mol0YjrIN941RSKv8R6aDx0ZLQYo",

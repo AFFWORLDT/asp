@@ -88,7 +88,7 @@ The website uses a consistent design system with:
 Create a `.env.local` file in the root directory:
 
 \`\`\`env
-NEXT_PUBLIC_API_URL=https://kkre-api.propfusion.io
+NEXT_PUBLIC_API_URL=https://asp-api.propfusion.io
 NEXT_PUBLIC_SITE_URL=https://investmentexperts.ae
 \`\`\`
 

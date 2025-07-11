@@ -54,7 +54,7 @@ export default function ProjectDetailsPage() {
   const fetchProjectDetails = async (projectId: string) => {
     try {
       setLoading(true)
-      const response = await fetch(`https://kkre-api.propfusion.io/properties/projects?id=${projectId}`)
+      const response = await fetch(`https://asp-api.propfusion.io/properties/projects?id=${projectId}`)
       if (!response.ok) throw new Error("Failed to fetch project details")
       const data = await response.json()
       setProject(data.projects?.[0] || null)

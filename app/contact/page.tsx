@@ -71,7 +71,7 @@ export default function ContactPage() {
       }
 
       // Call the API
-      const response = await fetch('https://kkre-api.propfusion.io/properties/create_leads_for_website', {
+      const response = await fetch('https://asp-api.propfusion.io/properties/create_leads_for_website', {
         method: 'POST',
         headers: {
           'accept': 'application/json',
@@ -136,11 +136,11 @@ export default function ContactPage() {
                 <div>
                   <h3 className="text-lg font-semibold text-gray-700">Email Us</h3>
                   <div className="flex flex-col gap-1">
-                    <a href="mailto:kkabbani@kkrealest.com" className="text-gray-600 hover:text-blue-600">
-                      kkabbani@kkrealest.com
+                    <a href="mailto:kkabbani@aspalest.com" className="text-gray-600 hover:text-blue-600">
+                      kkabbani@aspalest.com
                     </a>
-                    <a href="mailto:amina@kkrealest.com" className="text-gray-600 hover:text-blue-600">
-                      amina@kkrealest.com
+                    <a href="mailto:amina@aspalest.com" className="text-gray-600 hover:text-blue-600">
+                      amina@aspalest.com
                     </a>
                   </div>
                 </div>

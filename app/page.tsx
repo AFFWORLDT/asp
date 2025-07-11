@@ -37,7 +37,7 @@ export default function HomePage() {
       try {
         setLoading(true)
         const response = await fetch(
-          "https://kkre-api.propfusion.io/properties/get_properties_for_main_site?listing_type=RENT&size=12&status=ACTIVE"
+          "https://asp-api.propfusion.io/properties/get_properties_for_main_site?listing_type=RENT&size=12&status=ACTIVE"
         )
         if (!response.ok) {
           throw new Error("Failed to fetch rental properties")
@@ -365,7 +365,7 @@ export default function HomePage() {
           </p>
           <div className="flex justify-center my-8">
             <a
-              href="https://www.instagram.com/kkrealest/"
+              href="https://www.instagram.com/aspalest/"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center px-6 py-3 bg-gradient-to-r from-pink-500 via-red-500 to-yellow-500 text-white font-bold rounded-full shadow-lg hover:scale-105 hover:shadow-xl transition-all duration-300 text-lg"
@@ -375,12 +375,12 @@ export default function HomePage() {
                 <circle cx="12" cy="12" r="3.5" />
                 <circle cx="17.25" cy="6.75" r="0.75" />
               </svg>
-              Follow us on Instagram @kkrealest
+              Follow us on Instagram @aspalest
             </a>
           </div>
           <div className="flex justify-center my-8">
             <iframe
-              src="https://www.instagram.com/kkrealest/embed/"
+              src="https://www.instagram.com/aspalest/embed/"
               width="400"
               height="480"
               frameBorder="0"

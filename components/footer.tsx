@@ -79,9 +79,9 @@ export function Footer() {
   ];
 
   const socialLinks = [
-    { name: "Facebook", icon: Facebook, href: "https://www.facebook.com/kkrealest" },
-    { name: "Instagram", icon: Instagram, href: "https://www.instagram.com/kkrealest/" },
-    { name: "TikTok", icon: FaTiktok, href: "https://www.tiktok.com/@kkrealest22" },
+    { name: "Facebook", icon: Facebook, href: "https://www.facebook.com/aspalest" },
+    { name: "Instagram", icon: Instagram, href: "https://www.instagram.com/aspalest/" },
+    { name: "TikTok", icon: FaTiktok, href: "https://www.tiktok.com/@aspalest22" },
     { name: "LinkedIn", icon: Linkedin, href: "#" },
     { name: "Twitter", icon: Twitter, href: "#" },
     { name: "YouTube", icon: Youtube, href: "#" },
@@ -165,7 +165,7 @@ export function Footer() {
                   <span className="font-medium">Call Now</span>
                 </a>
                 <a
-                  href="mailto:kkabbani@kkrealest.com"
+                  href="mailto:kkabbani@aspalest.com"
                   className="group flex items-center justify-center px-4 py-2 bg-white/10 border border-white/20 rounded-full hover:bg-white/20 transition-all duration-300"
                 >
                   <Mail className="h-4 w-4 mr-2" />
@@ -228,7 +228,7 @@ export function Footer() {
                 </a>
                 
                 <a
-                  href="mailto:kkabbani@kkrealest.com"
+                  href="mailto:kkabbani@aspalest.com"
                   className="group flex items-center text-gray-400 hover:text-[#F0C75A] transition-colors duration-200"
                 >
                   <div className="flex items-center justify-center w-8 h-8 bg-white/10 rounded-full mr-3 group-hover:bg-[#F0C75A]/20 transition-colors">
@@ -236,7 +236,7 @@ export function Footer() {
                   </div>
                   <div>
                     <div className="text-sm text-gray-500">Email</div>
-                    <div className="font-medium">kkabbani@kkrealest.com</div>
+                    <div className="font-medium">kkabbani@aspalest.com</div>
                   </div>
                 </a>
                 

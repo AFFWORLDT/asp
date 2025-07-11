@@ -157,7 +157,7 @@ export default function PropertiesPage() {
       if (searchQuery) params.append("search", searchQuery)
 
       const response = await fetch(
-        `https://kkre-api.propfusion.io/properties/get_properties_for_main_site?${params.toString()}`,
+        `https://asp-api.propfusion.io/properties/get_properties_for_main_site?${params.toString()}`,
       )
 
       if (!response.ok) {

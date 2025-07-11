@@ -160,7 +160,7 @@ export default function ProjectsPage() {
 
       if (searchQuery) params.append("search", searchQuery)
 
-      const response = await fetch(`https://kkre-api.propfusion.io/properties/projects?${params.toString()}`)
+      const response = await fetch(`https://asp-api.propfusion.io/properties/projects?${params.toString()}`)
 
       if (!response.ok) {
         throw new Error("Failed to fetch projects")

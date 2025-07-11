@@ -141,7 +141,7 @@ export default function PropertyDetailsPage() {
       // For now, we'll fetch from the main API and find the specific property
       // In a real app, you'd have a dedicated endpoint for single property details
       const response = await fetch(
-        `https://kkre-api.propfusion.io/properties/get_properties_for_main_site?size=100&status=ACTIVE&listing_type=SELL`,
+        `https://asp-api.propfusion.io/properties/get_properties_for_main_site?size=100&status=ACTIVE&listing_type=SELL`,
       )
 
       if (!response.ok) {
