@@ -82,13 +82,13 @@ export function Navbar() {
           {/* Desktop Contact & CTA */}
           <div className="hidden lg:flex items-center space-x-4">
             <a
-              href="tel:+971521007734"
+              href="tel:+971551803344"
               className={`flex items-center space-x-2 transition-colors duration-300 ${
                 isScrolled ? "text-gray-200 hover:text-white" : "text-white hover:text-gray-100"
               }`}
             >
               <Phone className="h-4 w-4" />
-              <span className="text-sm font-medium">+971521007734</span>
+              <span className="text-sm font-medium">+971551803344</span>
             </a>
             <Link href="/contact">
               <Button className="bg-gradient-to-r from-[#F0C75A] via-[#D29F53] to-[#8F6125] hover:opacity-90 text-[#0A253A] px-6 py-2 rounded-full transition-all duration-300 transform hover:scale-105 shadow-lg hover:shadow-xl">
@@ -139,11 +139,11 @@ export function Navbar() {
             ))}
             <div className="px-3 py-3 border-t border-gray-200/30 mt-3">
               <a
-                href="tel:+971521007734"
+                href="tel:+971551803344"
                 className="flex items-center space-x-2 text-gray-600 mb-3 hover:text-blue-600 transition-colors"
               >
                 <Phone className="h-4 w-4" />
-                <span className="text-sm font-medium">+971521007734</span>
+                <span className="text-sm font-medium">+971551803344</span>
               </a>
               <Link href="/contact" className="w-full">
                 <Button className="w-full bg-gradient-to-r from-[#F0C75A] via-[#D29F53] to-[#8F6125] hover:opacity-90 text-[#0A253A] py-2 rounded-full transition-all duration-300 shadow-lg">

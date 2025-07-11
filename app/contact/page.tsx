@@ -125,7 +125,7 @@ export default function ContactPage() {
                     rel="noopener noreferrer"
                     className="text-gray-600 hover:text-blue-600 not-italic"
                   >
-                    Unit 2317 Al Jawhara Tower, Al Barsha 5 South, Dubai, UAE
+                    Prime. TOWER  Tower, Al Barsha 5 South, Dubai, UAE
                   </a>
                 </div>
               </div>
@@ -136,8 +136,8 @@ export default function ContactPage() {
                 <div>
                   <h3 className="text-lg font-semibold text-gray-700">Email Us</h3>
                   <div className="flex flex-col gap-1">
-                    <a href="mailto:kkabbani@aspalest.com" className="text-gray-600 hover:text-blue-600">
-                      kkabbani@aspalest.com
+                    <a href="mailto:asproperty2025@gmail.com" className="text-gray-600 hover:text-blue-600">
+                      asproperty2025@gmail.com
                     </a>
                     <a href="mailto:amina@aspalest.com" className="text-gray-600 hover:text-blue-600">
                       amina@aspalest.com
@@ -155,8 +155,8 @@ export default function ContactPage() {
                     <a href="tel:+971562633246" className="text-gray-600 hover:text-blue-600">
                       +971562633246
                     </a>
-                    <a href="tel:+971521007734" className="text-gray-600 hover:text-blue-600">
-                      +971521007734
+                    <a href="tel:+971551803344" className="text-gray-600 hover:text-blue-600">
+                      +971551803344
                     </a>
                   </div>
                 </div>

@@ -158,14 +158,14 @@ export function Footer() {
               {/* Quick Contact */}
               <div className="flex flex-col sm:flex-row gap-3">
                 <a
-                  href="tel:+971521007734"
+                  href="tel:+971551803344"
                   className="group flex items-center justify-center px-4 py-2 bg-gradient-to-r from-[#F0C75A] to-[#D29F53] rounded-full hover:shadow-lg transition-all duration-300 transform hover:scale-105"
                 >
                   <Phone className="h-4 w-4 mr-2" />
                   <span className="font-medium">Call Now</span>
                 </a>
                 <a
-                  href="mailto:kkabbani@aspalest.com"
+                  href="mailto:asproperty2025@gmail.com"
                   className="group flex items-center justify-center px-4 py-2 bg-white/10 border border-white/20 rounded-full hover:bg-white/20 transition-all duration-300"
                 >
                   <Mail className="h-4 w-4 mr-2" />
@@ -215,7 +215,7 @@ export function Footer() {
               <h3 className="text-lg font-bold mb-6 text-white">Contact Info</h3>
               <div className="space-y-4">
                 <a
-                  href="tel:+971521007734"
+                  href="tel:+971551803344"
                   className="group flex items-center text-gray-400 hover:text-[#F0C75A] transition-colors duration-200"
                 >
                   <div className="flex items-center justify-center w-8 h-8 bg-white/10 rounded-full mr-3 group-hover:bg-[#F0C75A]/20 transition-colors">
@@ -223,12 +223,12 @@ export function Footer() {
                   </div>
                   <div>
                     <div className="text-sm text-gray-500">Phone</div>
-                    <div className="font-medium">+971521007734</div>
+                    <div className="font-medium">+971551803344</div>
                   </div>
                 </a>
                 
                 <a
-                  href="mailto:kkabbani@aspalest.com"
+                  href="mailto:asproperty2025@gmail.com"
                   className="group flex items-center text-gray-400 hover:text-[#F0C75A] transition-colors duration-200"
                 >
                   <div className="flex items-center justify-center w-8 h-8 bg-white/10 rounded-full mr-3 group-hover:bg-[#F0C75A]/20 transition-colors">
@@ -236,7 +236,7 @@ export function Footer() {
                   </div>
                   <div>
                     <div className="text-sm text-gray-500">Email</div>
-                    <div className="font-medium">kkabbani@aspalest.com</div>
+                    <div className="font-medium">asproperty2025@gmail.com</div>
                   </div>
                 </a>
                 
@@ -252,7 +252,7 @@ export function Footer() {
                   <div>
                     <div className="text-sm text-gray-500">Address</div>
                     <div className="font-medium leading-relaxed">
-                      Unit 2317 Al Jawhara Tower, Al Barsha 5 South,<br />Dubai, UAE
+                      Prime. TOWER  Tower, Al Barsha 5 South,<br />Dubai, UAE
                     </div>
                   </div>
                 </a>
