@@ -223,7 +223,7 @@ export default async function TeamPage() {
               className="group inline-flex items-center justify-center px-8 py-4 border-2 border-white text-white font-bold rounded-full hover:bg-white hover:text-[#0a253a] transition-all duration-300 transform hover:scale-105"
             >
               <Phone className="w-5 h-5 mr-2 transition-transform group-hover:scale-110" />
-              <span>+971562633246</span>
+              <span></span>
             </a>
           </div>
         </div>

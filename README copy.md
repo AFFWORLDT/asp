@@ -169,7 +169,7 @@ This project is proprietary software owned by Ayaz Shahzad Properties Real Estat
 ## 📞 Contact
 
 **Ayaz Shahzad Properties Real Estate LLC**
-- **Phone**: +971562633246
+- **Phone**: 
 - **Email**: hello@investmentexperts.ae
 - **Address**: Concord Tower 3703, 37th Floor, Dubai Media City, Dubai, UAE
 - **Website**: https://investmentexperts.ae
