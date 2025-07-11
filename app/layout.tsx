@@ -11,14 +11,14 @@ import Footer from "@/components/footer"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "Kenan Alkabbani Real Estate - Dubai Real Estate",
+  title: "Ayaz Shahzad Properties Real Estate - Dubai Real Estate",
   description:
-    "Experience Dubai living like never before with Kenan Alkabbani Real Estate. Find your dream home in Dubai's most prestigious developments.",
+    "Experience Dubai living like never before with Ayaz Shahzad Properties Real Estate. Find your dream home in Dubai's most prestigious developments.",
   keywords:
     "Dubai real estate, luxury properties, off-plan projects, investment properties, Dubai Marina, Downtown Dubai, Palm Jumeirah",
-  authors: [{ name: "Kenan Alkabbani Real Estate LLC" }],
-  creator: "Kenan Alkabbani Real Estate LLC",
-  publisher: "Kenan Alkabbani Real Estate LLC",
+  authors: [{ name: "Ayaz Shahzad Properties Real Estate LLC" }],
+  creator: "Ayaz Shahzad Properties Real Estate LLC",
+  publisher: "Ayaz Shahzad Properties Real Estate LLC",
   formatDetection: {
     email: false,
     address: false,
@@ -29,17 +29,17 @@ export const metadata: Metadata = {
     canonical: "/",
   },
   openGraph: {
-    title: "Kenan Alkabbani Real Estate - Dubai Real Estate",
+    title: "Ayaz Shahzad Properties Real Estate - Dubai Real Estate",
     description:
-      "Experience Dubai living like never before with Kenan Alkabbani Real Estate. Find your dream home in Dubai's most prestigious developments.",
+      "Experience Dubai living like never before with Ayaz Shahzad Properties Real Estate. Find your dream home in Dubai's most prestigious developments.",
     url: "https://investmentexperts.ae",
-    siteName: "Kenan Alkabbani Real Estate",
+    siteName: "Ayaz Shahzad Properties Real Estate",
     images: [
       {
         url: "/hero.jpeg",
         width: 1200,
         height: 630,
-        alt: "Dubai Skyline - Kenan Alkabbani Real Estate Real Estate",
+        alt: "Dubai Skyline - Ayaz Shahzad Properties Real Estate Real Estate",
       },
     ],
     locale: "en_US",
@@ -47,9 +47,9 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Kenan Alkabbani Real Estate - Dubai Real Estate",
+    title: "Ayaz Shahzad Properties Real Estate - Dubai Real Estate",
     description:
-      "Experience Dubai living like never before with Kenan Alkabbani Real Estate. Find your dream home in Dubai's most prestigious developments.",
+      "Experience Dubai living like never before with Ayaz Shahzad Properties Real Estate. Find your dream home in Dubai's most prestigious developments.",
     images: ["/hero.jpeg"],
   },
   robots: {

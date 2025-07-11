@@ -41,7 +41,7 @@ export function Navbar() {
             <Link href="/">
               <Image
                 src="/logo.png"
-                alt="Kenan Alkabbani Real Estate"
+                alt="Ayaz Shahzad Properties Real Estate"
                 width={48}
                 height={48}
                 className="h-12 w-auto"
@@ -54,7 +54,7 @@ export function Navbar() {
             <div className="relative">
               <Image
                 src="/logo.png"
-                alt="Kenan Alkabbani Real Estate"
+                alt="Ayaz Shahzad Properties Real Estate"
                 width={160}
                 height={55}
                 className="h-12 sm:h-14 lg:h-14 w-auto transition-all duration-300 group-hover:scale-105 group-hover:drop-shadow-lg"

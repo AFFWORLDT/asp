@@ -2,7 +2,7 @@
   "name": "investment-experts-dubai",
   "version": "1.0.0",
   "private": true,
-  "description": "Kenan Alkabbani Real Estate Dubai - Premium Real Estate Website for Dubai Properties",
+  "description": "Ayaz Shahzad Properties Real Estate Dubai - Premium Real Estate Website for Dubai Properties",
   "keywords": [
     "dubai",
     "real-estate",
@@ -21,7 +21,7 @@
     "url": "https://github.com/investment-experts/dubai-real-estate"
   },
   "license": "UNLICENSED",
-  "author": "Kenan Alkabbani Real Estate LLC",
+  "author": "Ayaz Shahzad Properties Real Estate LLC",
   "scripts": {
     "build": "next build",
     "dev": "next dev",

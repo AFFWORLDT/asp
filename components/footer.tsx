@@ -126,7 +126,7 @@ export function Footer() {
               <Link href="/" className="flex-shrink-0 group mb-6 inline-block">
                 <Image
                   src="/logo.png"
-                  alt="Kenan Alkabbani Real Estate"
+                  alt="Ayaz Shahzad Properties Real Estate"
                   width={180}
                   height={60}
                   className="h-12 w-auto transition-transform duration-300 group-hover:scale-105"
@@ -264,7 +264,7 @@ export function Footer() {
           <div className="border-t border-gray-700 mt-12 pt-8">
             <div className="flex flex-col md:flex-row justify-between items-center gap-4">
                              <div className="text-gray-400 text-center md:text-left">
-                 <p>&copy; 2024 Kenan Alkabbani Real Estate. All rights reserved.</p>
+                 <p>&copy; 2024 Ayaz Shahzad Properties Real Estate. All rights reserved.</p>
                  <p className="text-sm mt-1 flex items-center justify-center md:justify-start">
                    Built with <Heart className="w-4 h-4 mx-1 text-red-500 fill-current animate-pulse" /> by <a href="https://propfusion.io" target="_blank" rel="noopener noreferrer" className="ml-1 text-[#F0C75A] hover:text-[#D29F53] transition-colors font-medium">PropFusion</a>
                  </p>

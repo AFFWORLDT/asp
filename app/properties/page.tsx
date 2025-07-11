@@ -312,7 +312,7 @@ export default function PropertiesPage() {
           availability: "https://schema.org/InStock",
           seller: {
             "@type": "RealEstateAgent",
-            name: "Kenan Alkabbani Real Estate LLC",
+            name: "Ayaz Shahzad Properties Real Estate LLC",
           },
         },
         additionalProperty: [

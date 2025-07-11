@@ -398,7 +398,7 @@ export default function HomePage() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 sm:gap-12">
             <div className="lg:col-span-2">
-              <Image src="/logo.png" alt="Kenan Alkabbani Real Estate" width={150} height={50} className="h-12 w-auto mb-6" />
+              <Image src="/logo.png" alt="Ayaz Shahzad Properties Real Estate" width={150} height={50} className="h-12 w-auto mb-6" />
               <p className="text-gray-400 mb-6 leading-relaxed max-w-md">
                 Dubai's premier real estate consultancy, specializing in luxury properties and investment opportunities
                 across the emirate's most prestigious locations.
@@ -446,7 +446,7 @@ export default function HomePage() {
           </div>
 
           <div className="border-t border-gray-800 mt-12 pt-8 text-center text-gray-400">
-            <p>&copy; 2024 Kenan Alkabbani Real Estate. All rights reserved.</p>
+            <p>&copy; 2024 Ayaz Shahzad Properties Real Estate. All rights reserved.</p>
           </div>
         </div>
       </footer> */}

@@ -26,7 +26,7 @@ import Link from "next/link"
 
 
 export const metadata: Metadata = {
-  title: "Property Management | Kenan Alkabbani Real Estate",
+  title: "Property Management | Ayaz Shahzad Properties Real Estate",
   description: "End-to-end management maximising yield and preserving asset value for global landlords.",
 }
 

@@ -22,7 +22,7 @@ import Navbar from "@/components/navbar"
 import type { Metadata } from "next"
 
 export const metadata: Metadata = {
-  title: "Investment Advisory | Kenan Alkabbani Real Estate",
+  title: "Investment Advisory | Ayaz Shahzad Properties Real Estate",
   description: "Tailored strategies delivering double-digit ROI across Dubai's prime & emerging districts.",
 }
 
@@ -315,7 +315,7 @@ export default function InvestmentAdvisoryPage() {
           <div className="text-center">
             <h2 className="text-4xl font-bold mb-6">Ready to Build Your Real Estate Portfolio?</h2>
             <p className="text-xl mb-12 max-w-3xl mx-auto">
-              Schedule a private consultation with our Kenan Alkabbani Real Estate to discuss your financial goals and get a
+              Schedule a private consultation with our Ayaz Shahzad Properties Real Estate to discuss your financial goals and get a
               personalized investment strategy.
             </p>
             <Button

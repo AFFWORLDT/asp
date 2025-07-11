@@ -18,14 +18,14 @@ export default function AboutPage() {
         <div className="flex flex-col sm:flex-row items-center gap-6 bg-white rounded-xl shadow-lg p-6 mb-10">
           <Image
             src="/placeholder-user.jpg"
-            alt="Kenan Alkabbani"
+            alt="Ayaz Shahzad Properties"
             width={120}
             height={120}
             className="rounded-full border-4 border-blue-200 shadow-md object-cover"
           />
           <div>
             <h2 className="text-2xl font-bold text-blue-900 mb-1">General Manager</h2>
-            <h3 className="text-xl font-semibold text-gray-800 mb-2">Kenan Alkabbani</h3>
+            <h3 className="text-xl font-semibold text-gray-800 mb-2">Ayaz Shahzad Properties</h3>
             <p className="text-gray-700 leading-relaxed mb-2">
               My passion for real estate began earlier. I have always been interested in the real estate market, and I looked forward to the day I could purchase my first home In Dubai; this opportunity came early in 2017. Since then, I have bought and sold multiple properties across the Emirates.
             </p>
@@ -33,7 +33,7 @@ export default function AboutPage() {
               Today, we service numerous clients in Real Estate Brokerage and Home Rentals.
             </p>
             <p className="text-gray-700 leading-relaxed mb-2">
-              Whether you are a new buyer or a seasoned investor, Kenan Alkabbani Real Estate will provide you with the highest detail related to your needs.
+              Whether you are a new buyer or a seasoned investor, Ayaz Shahzad Properties Real Estate will provide you with the highest detail related to your needs.
             </p>
             <p className="text-gray-700 leading-relaxed mb-2">
               Our philosophy is simple–love what you do.
@@ -48,13 +48,13 @@ export default function AboutPage() {
         <section className="mb-10">
           <h2 className="text-3xl font-bold text-blue-900 mb-4">About Us</h2>
           <p className="text-gray-700 leading-relaxed mb-3">
-            Kenan Alkabbani Real Estate is a premier real estate solution provider of high-quality services tailored to your specific needs. Our ability to develop and execute customized strategic solutions to support our client's unique goals and assess further exemplifies our commitment to creating enduring, successful partnerships.
+            Ayaz Shahzad Properties Real Estate is a premier real estate solution provider of high-quality services tailored to your specific needs. Our ability to develop and execute customized strategic solutions to support our client's unique goals and assess further exemplifies our commitment to creating enduring, successful partnerships.
           </p>
           <p className="text-gray-700 leading-relaxed mb-3">
-            Our success in attaining these goals, along with our well-regarded reputation, has enabled us to forge relationships and partnerships with our clients around the United Arab Emirates. Kenan Alkabbani Real Estate serves customers in buying, selling and leasing properties.
+            Our success in attaining these goals, along with our well-regarded reputation, has enabled us to forge relationships and partnerships with our clients around the United Arab Emirates. Ayaz Shahzad Properties Real Estate serves customers in buying, selling and leasing properties.
           </p>
           <p className="text-gray-700 leading-relaxed mb-3">
-            At Kenan Alkabbani Real Estate, we have one guiding principle: to serve our customers beyond their expectations. By partnering with our clients, we take the time to understand and assess your unique challenges and issues. We then create a complete, custom-made solution set to help you to achieve the best returns.
+            At Ayaz Shahzad Properties Real Estate, we have one guiding principle: to serve our customers beyond their expectations. By partnering with our clients, we take the time to understand and assess your unique challenges and issues. We then create a complete, custom-made solution set to help you to achieve the best returns.
           </p>
         </section>
 
@@ -63,7 +63,7 @@ export default function AboutPage() {
           <div className="bg-white rounded-xl shadow p-6 text-center">
             <h3 className="text-xl font-bold text-blue-800 mb-2">Our Mission</h3>
             <p className="text-gray-700 text-base">
-              We aim to guide clients through every step of their real estate journey when buying or selling property. Kenan Alkabbani Real Estate is ready to provide our clients with everything they need.
+              We aim to guide clients through every step of their real estate journey when buying or selling property. Ayaz Shahzad Properties Real Estate is ready to provide our clients with everything they need.
             </p>
           </div>
           <div className="bg-white rounded-xl shadow p-6 text-center">
@@ -92,7 +92,7 @@ export default function AboutPage() {
             <div className="bg-white rounded-xl shadow p-6">
               <h3 className="text-lg font-bold text-blue-800 mb-2">Experience and Expertise</h3>
               <p className="text-gray-700">
-                Our team of professionals are experts in their roles at Kenan Alkabbani Real Estate. We continuously learn from the market and empower ourselves with new information, trends, and knowledge to provide our customers with the most accurate and timely information they need in their real estate journey.
+                Our team of professionals are experts in their roles at Ayaz Shahzad Properties Real Estate. We continuously learn from the market and empower ourselves with new information, trends, and knowledge to provide our customers with the most accurate and timely information they need in their real estate journey.
               </p>
             </div>
           </div>

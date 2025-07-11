@@ -1,6 +1,6 @@
-            # Kenan Alkabbani Real Estate Dubai - Real Estate Website
+            # Ayaz Shahzad Properties Real Estate Dubai - Real Estate Website
 
-A premium real estate website for Kenan Alkabbani Real Estate Dubai, showcasing luxury properties for sale, rent, and investment opportunities across Dubai's most prestigious locations.
+A premium real estate website for Ayaz Shahzad Properties Real Estate Dubai, showcasing luxury properties for sale, rent, and investment opportunities across Dubai's most prestigious locations.
 
 ## 🌟 Features
 
@@ -164,11 +164,11 @@ The app can be deployed to any platform that supports Next.js:
 
 ## 📄 License
 
-This project is proprietary software owned by Kenan Alkabbani Real Estate LLC.
+This project is proprietary software owned by Ayaz Shahzad Properties Real Estate LLC.
 
 ## 📞 Contact
 
-**Kenan Alkabbani Real Estate LLC**
+**Ayaz Shahzad Properties Real Estate LLC**
 - **Phone**: +971562633246
 - **Email**: hello@investmentexperts.ae
 - **Address**: Concord Tower 3703, 37th Floor, Dubai Media City, Dubai, UAE

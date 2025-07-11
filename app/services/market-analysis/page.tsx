@@ -24,7 +24,7 @@ import Navbar from "@/components/navbar"
 import type { Metadata } from "next"
 
 export const metadata: Metadata = {
-  title: "Market Analysis | Kenan Alkabbani Real Estate",
+  title: "Market Analysis | Ayaz Shahzad Properties Real Estate",
   description: "Actionable intelligence powering data-driven real-estate decisions across the UAE.",
 }
 

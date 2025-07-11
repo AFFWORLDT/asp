@@ -25,7 +25,7 @@ import { Badge } from "@/components/ui/badge"
 
 
 export const metadata: Metadata = {
-  title: "Property Sales | Kenan Alkabbani Real Estate",
+  title: "Property Sales | Ayaz Shahzad Properties Real Estate",
   description:
     "Discover a curated portfolio of Dubai's most prestigious properties, hand-picked for discerning buyers.",
 }
